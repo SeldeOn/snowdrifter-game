@@ -1,0 +1,31 @@
+
+Objective: 
+
+Pointers:
+Building mode/Selection of tiles
+Number of picked materials
+Health
+Energy bar
+Goal
+
+Controls:
+Arrows - Move around
+Space - Fire projectile/Build Tile
+B - Turn Building mode on/off
+N - Change tile in the Building mode
+H - Turn the help on/off
+
+
+Some graphics were taken from "Tank Game" by sparrow666 licensed [license(s)]: https://opengameart.org/content/tank-game
+Music"Mysterious Green Fluid" by Karl Casey @ White Bat Audio licensed [license(s)]: https://youtu.be/Eiijm2GhKAA
+Sound 
+
+The goal of this game is to collect all of the modules hidden underneath the snow.
+
+Snow can be shot down but the uncovered ground can spawn enemies. Snow can also drop material that can be used to build supporting structures:
+
+Barricade - obstacle that can be destroyed by enemies
+Wall - cannot be destroyed by enemies but can decay over time
+Floor - can recharge energy and prevents spawning of enemies
+
+Do not loose health or energy! Energy can be gained from docking stations (two in the map) or from built floor tiles. 
